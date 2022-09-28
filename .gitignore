@@ -1,0 +1,8 @@
+/receiver
+/.idea/RabbitMQ_Receiver.iml
+/build/build.zip
+/.idea/modules.xml
+/build/receiver
+/build/sender
+/build/config.json
+/.idea/.gitignore
